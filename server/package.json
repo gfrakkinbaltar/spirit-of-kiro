@@ -16,7 +16,7 @@
     "@aws-sdk/lib-dynamodb": "^3.0.0",
     "js-yaml": "^4.1.0",
     "redis": "^5.0.1",
-    "sharp": "^0.34.1",
+    "sharp": "^0.35.3",
     "ws": "^8.18.0"
   },
   "devDependencies": {
